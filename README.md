@@ -1,7 +1,7 @@
 # Maltimart Ecommerce
 
 ## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
+https://martecommercesite.netlify.app
 
 ## 😎 Features
 
